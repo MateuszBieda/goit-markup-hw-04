@@ -74,7 +74,7 @@ a:hover svg {
 /* main */
 .first-section {
   background-color: #2f303a;
-  background-image:url(/images/img17.jpg), linear-gradient(rgba(47, 48, 58, 0.4),rgba(47, 48, 58, 0.4));
+  background-image:url(../images/img17.jpg), linear-gradient(rgba(47, 48, 58, 0.4),rgba(47, 48, 58, 0.4));
   background-repeat: no-repeat;
   background-position:center;
   background-size:cover;

@@ -420,6 +420,10 @@ margin-left: 93px;
   display: inline-block;
   margin-right: 10px;
   cursor: pointer;
+  fill:rgba(117, 117, 117, 1);
+ }
+ .client-icon{
+  fill:rgba(175, 177, 184, 1);
  }
  .client-icon:hover,
  .client-icon:focus,
